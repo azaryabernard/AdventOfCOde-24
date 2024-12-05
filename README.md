@@ -1,1 +1,1 @@
-# AdventOfCOde-24
+# AdventOfCode-24 with Haskell ( trying at least :D )
